@@ -1,0 +1,10 @@
+= Technology Strategy Patterns Reference
+:toc-title: Table of Contents
+
+include::src/config.adoc[]
+
+:numbered:
+
+include::src/creating_strategy_patterns.adoc[]
+
+include::src/communicating_strategy_patterns.adoc[]
